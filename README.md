@@ -1,8 +1,7 @@
 <div align="center">
   <h2>👋 ExplorerDonutz Github Profile 👋</h2>
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=ExplorerDonutz&theme=tokyonight&hide_border=true&card_width=800&border_radius=0.5" width=100% height=100% align="center"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ExplorerDonutz&theme=vue-dark&show_icons=true&hide_border=true&layout=compact" width=50% height=5% align="center"/>
 </div>
-
 <hr>
 <div>
 <h3>Hi I’m Michael (ExplorerDonutz) and this is my github profile.</h3>
